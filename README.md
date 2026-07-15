@@ -19,7 +19,8 @@ Analyzed 3,818 Seattle Airbnb listings to uncover pricing trends by location and
 
 **Data note:** Calendar sheet hit Excel's row limit during export, so it covers ~75% of listings (2,873 of 3,818). Flagging this for transparency.
 
-**Files:** `tableau_full_project_airbnb.twb` (open in Tableau Desktop/Reader) + `data/Tableau_Full_Project.xlsx` (keep in same folder, live connection not an extract)
+**Files:** `tableau_full_project_airbnb.twb` (open in Tableau Desktop/Reader)
+**Dataset:**The dataset is publicly available from [https://www.kaggle.com/alexanderfreberg/airbnb-listings-2016-dataset]. Due to GitHub file size limits, it is not included in this repository.
 
 [Live Dashboard on Tableau Public](#) *(https://public.tableau.com/app/profile/grace.v.l/viz/tableaufullprojectairbnb/Dashboard1?publish=yes)*
 
